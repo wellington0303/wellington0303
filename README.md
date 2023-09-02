@@ -1,6 +1,6 @@
-Graduando em ciencia da computacao, tecnico em edficacoes
-Atualmente estou aprendendo C++, tenho o basico em python
-Com nivel medio a avancado em autoCAD
+Graduando em ciencia da computacao, tecnico em edficacoes,
+atualmente estou aprendendo C++, tenho o basico em python e
+com nivel medio a avancado em autoCAD
 
 
 <!---
